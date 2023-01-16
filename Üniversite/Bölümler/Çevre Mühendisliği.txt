@@ -1,0 +1,4 @@
+Güz Zorunlu dersler: [[Mat]] , [[Çevre Düzenleme]].
+Bahar Zorunlu Dersler: [[Matematik_II]] , [[Programlama_II]].
+Seçmeli Dersler: [[İngilizce]] , [[Görsel Programlama]], [[VeritabanıYönetimi]], [[Tarih!].
+
